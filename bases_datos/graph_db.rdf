@@ -3,411 +3,1565 @@
    xmlns:ex="http://memoir_44.org/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
-  <rdf:Description rdf:about="http://memoir_44.org/Scenario_/_Mission_/_Campaign_Game">
-    <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Pandemic_Legacy%3A_Season_1"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Gloomhaven"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Gloomhaven%3A_Jaws_of_the_Lion"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Clank%21_Legacy%3A_Acquisitions_Incorporated"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Frosthaven"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Arkham_Horror%3A_The_Card_Game"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Claude_Rica">
-    <rdf:type rdf:resource="http://memoir_44.org/Artist"/>
-    <ex:participó_en rdf:resource="http://memoir_44.org/Memoir_%2744"/>
-    <ex:participó_en rdf:resource="http://memoir_44.org/Memoir_%2744%3A_The_Battles_of_Khalkhin-Gol"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Julien_Delval">
-    <rdf:type rdf:resource="http://memoir_44.org/Artist"/>
-    <ex:participó_en rdf:resource="http://memoir_44.org/The_Castles_of_Burgundy"/>
-    <ex:participó_en rdf:resource="http://memoir_44.org/Ticket_to_Ride_Legacy%3A_Legends_of_the_West"/>
-    <ex:participó_en rdf:resource="http://memoir_44.org/Dominion%3A_Intrigue"/>
-    <ex:participó_en rdf:resource="http://memoir_44.org/Dominion"/>
-    <ex:participó_en rdf:resource="http://memoir_44.org/Res_Arcana"/>
-    <ex:participó_en rdf:resource="http://memoir_44.org/Ticket_to_Ride%3A_Europe"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Twilight_Struggle">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Days_of_Wonder">
+  <rdf:Description rdf:about="http://memoir_44.org/ADC_Blackfire_Entertainment">
     <rdf:type rdf:resource="http://memoir_44.org/Publisher"/>
-    <ex:publicó rdf:resource="http://memoir_44.org/Heat%3A_Pedal_to_the_Metal"/>
-    <ex:publicó rdf:resource="http://memoir_44.org/Five_Tribes%3A_The_Djinns_of_Naqala"/>
-    <ex:publicó rdf:resource="http://memoir_44.org/Ticket_to_Ride_Legacy%3A_Legends_of_the_West"/>
-    <ex:publicó rdf:resource="http://memoir_44.org/Ticket_to_Ride%3A_Europe"/>
-    <ex:publicó rdf:resource="http://memoir_44.org/Memoir_%2744"/>
-    <ex:publicó rdf:resource="http://memoir_44.org/Ticket_to_Ride%3A_Nordic_Countries"/>
+    <ex:is_located_in rdf:resource="http://memoir_44.org/Czech_Republic"/>
+    <ex:was_founded_on rdf:resource="http://memoir_44.org/principle_of_bringing_high_quality_educational_products"/>
+    <ex:brings_products_to rdf:resource="http://memoir_44.org/Eastern_Europe"/>
+    <ex:offers rdf:resource="http://memoir_44.org/adventure_games"/>
+    <ex:offers rdf:resource="http://memoir_44.org/strategy_games"/>
+    <ex:offers rdf:resource="http://memoir_44.org/family_board_games"/>
+    <ex:offers rdf:resource="http://memoir_44.org/educational_games"/>
+    <ex:appeals_to rdf:resource="http://memoir_44.org/people_of_all_ages_and_interests"/>
+    <ex:is_one_of rdf:resource="http://memoir_44.org/three_ADC_Blackfire_companies"/>
+    <ex:works_together_with rdf:resource="http://memoir_44.org/other_ADC_Blackfire_companies"/>
+    <ex:has_different rdf:resource="http://memoir_44.org/game_lines"/>
+    <ex:has_telephone rdf:resource="http://memoir_44.org/%2B420_281_930_282"/>
+    <ex:has_email rdf:resource="http://memoir_44.org/marketing%40blackfire.cz"/>
+    <ex:has_related_entry rdf:resource="http://memoir_44.org/ADC_Blackfire_Entertainment_GmbH"/>
+    <ex:has_official_link rdf:resource="http://memoir_44.org/www.blackfire.cz"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Twilight_Imperium%3A_Fourth_Edition"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Star_Wars%3A_Rebellion"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/7_Wonders_Duel"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Sky_Team"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Heat%3A_Pedal_to_the_Metal"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Marvel_Champions%3A_The_Card_Game"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Marvel_Champions%3A_The_Card_Game">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Ticket_to_Ride%3A_Nordic_Countries">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Memoir_44">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
-    <ex:diseñado_por rdf:resource="http://memoir_44.org/Richard_Borg"/>
-    <ex:tiene_como_artista rdf:resource="http://memoir_44.org/Cyrille_Daujean"/>
-    <ex:tiene_como_artista rdf:resource="http://memoir_44.org/Julien_Delval"/>
-    <ex:tiene_como_artista rdf:resource="http://memoir_44.org/Don_Perrin"/>
-    <ex:tiene_como_artista rdf:resource="http://memoir_44.org/Claude_Rica"/>
-    <ex:publicado_por rdf:resource="http://memoir_44.org/Days_of_Wonder"/>
-    <ex:publicado_por rdf:resource="http://memoir_44.org/ADC_Blackfire_Entertainment"/>
-    <ex:publicado_por rdf:resource="http://memoir_44.org/Edge_Entertainment"/>
-    <ex:utiliza_mecanismo rdf:resource="http://memoir_44.org/Area_Majority_/_Influence"/>
-    <ex:utiliza_mecanismo rdf:resource="http://memoir_44.org/Campaign_/_Battle_Card_Driven"/>
-    <ex:utiliza_mecanismo rdf:resource="http://memoir_44.org/Command_Cards"/>
-    <ex:utiliza_mecanismo rdf:resource="http://memoir_44.org/Dice_Rolling"/>
-    <ex:utiliza_mecanismo rdf:resource="http://memoir_44.org/Die_Icon_Resolution"/>
-    <ex:utiliza_mecanismo rdf:resource="http://memoir_44.org/Grid_Movement"/>
-    <ex:utiliza_mecanismo rdf:resource="http://memoir_44.org/Hand_Management"/>
-    <ex:utiliza_mecanismo rdf:resource="http://memoir_44.org/Hexagon_Grid"/>
-    <ex:utiliza_mecanismo rdf:resource="http://memoir_44.org/Line_of_Sight"/>
-    <ex:utiliza_mecanismo rdf:resource="http://memoir_44.org/Modular_Board"/>
-    <ex:utiliza_mecanismo rdf:resource="http://memoir_44.org/Movement_Points"/>
-    <ex:utiliza_mecanismo rdf:resource="http://memoir_44.org/Scenario_/_Mission_/_Campaign_Game"/>
-    <ex:utiliza_mecanismo rdf:resource="http://memoir_44.org/Simulation"/>
-    <ex:utiliza_mecanismo rdf:resource="http://memoir_44.org/Team-Based_Game"/>
-    <ex:utiliza_mecanismo rdf:resource="http://memoir_44.org/Variable_Set-up"/>
-    <ex:lanzado_en rdf:resource="http://memoir_44.org/2004"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Arcs">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Team-Based_Game">
-    <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/War_of_the_Ring%3A_Second_Edition"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Star_Wars%3A_Rebellion"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Dune%3A_Imperium_%E2%80%93_Uprising"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Nemesis"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Crokinole"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Star_Wars%3A_Imperial_Assault"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Die_Icon_Resolution">
-    <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Star_Wars%3A_Rebellion"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Too_Many_Bones"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Star_Wars%3A_Imperial_Assault"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Robinson_Crusoe%3A_Adventures_on_the_Cursed_Island"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Arcs"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Too_Many_Bones%3A_Undertow"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Command_Cards">
-    <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Voidfall"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Memoir_%2744"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Commands_%26_Colors%3A_Ancients"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/BattleLore%3A_Second_Edition"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Mythic_Battles%3A_Pantheon"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/The_Great_Wall"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Star_Wars%3A_X-Wing_Miniatures_Game">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/BattleLore%3A_Second_Edition">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Edge_Entertainment">
-    <rdf:type rdf:resource="http://memoir_44.org/Publisher"/>
-    <ex:publicó rdf:resource="http://memoir_44.org/Twilight_Imperium%3A_Fourth_Edition"/>
-    <ex:publicó rdf:resource="http://memoir_44.org/Star_Wars%3A_Rebellion"/>
-    <ex:publicó rdf:resource="http://memoir_44.org/Gaia_Project"/>
-    <ex:publicó rdf:resource="http://memoir_44.org/Arkham_Horror%3A_The_Card_Game"/>
-    <ex:publicó rdf:resource="http://memoir_44.org/Blood_Rage"/>
-    <ex:publicó rdf:resource="http://memoir_44.org/Cthulhu%3A_Death_May_Die"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Variable_Set-up">
-    <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Brass%3A_Birmingham"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Ark_Nova"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Twilight_Imperium%3A_Fourth_Edition"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Terraforming_Mars"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/War_of_the_Ring%3A_Second_Edition"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Star_Wars%3A_Rebellion"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Arkham_Horror%3A_The_Card_Game">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Simulation">
-    <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Twilight_Struggle"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Sky_Team"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Heat%3A_Pedal_to_the_Metal"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Pax_Pamir%3A_Second_Edition"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Hegemony%3A_Lead_Your_Class_to_Victory"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Undaunted%3A_Normandy"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Hand_Management">
-    <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Brass%3A_Birmingham"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Pandemic_Legacy%3A_Season_1"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Ark_Nova"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Gloomhaven"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Terraforming_Mars"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/War_of_the_Ring%3A_Second_Edition"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Scythe">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Area_Majority_/_Influence">
-    <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/War_of_the_Ring%3A_Second_Edition"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Star_Wars%3A_Rebellion"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Spirit_Island"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Twilight_Struggle"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Scythe"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Eclipse%3A_Second_Dawn_for_the_Galaxy"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Hexagon_Grid">
-    <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Ark_Nova"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Gloomhaven"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Twilight_Imperium%3A_Fourth_Edition"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Terraforming_Mars"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Gloomhaven%3A_Jaws_of_the_Lion"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Gaia_Project"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Modular_Board">
-    <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Gloomhaven"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Twilight_Imperium%3A_Fourth_Edition"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Spirit_Island"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Gaia_Project"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Eclipse%3A_Second_Dawn_for_the_Galaxy"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/7_Wonders_Duel"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Eclipse%3A_Second_Dawn_for_the_Galaxy">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Sky_Team">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Descent%3A_Journeys_in_the_Dark_%28Second_Edition%29">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Movement_Points">
-    <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Twilight_Imperium%3A_Fourth_Edition"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/War_of_the_Ring%3A_Second_Edition"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Scythe"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Clank%21_Legacy%3A_Acquisitions_Incorporated"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Concordia"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/On_Mars"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Line_of_Sight">
-    <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Gloomhaven"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Gloomhaven%3A_Jaws_of_the_Lion"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Star_Wars%3A_Imperial_Assault"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Star_Wars%3A_X-Wing_Miniatures_Game"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Memoir_%2744"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Descent%3A_Journeys_in_the_Dark_%28Second_Edition%29"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Res_Arcana">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  <rdf:Description rdf:about="http://memoir_44.org/Playing_area">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://memoir_44.org/Campaign_/_Battle_Card_Driven">
     <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Gloomhaven"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/War_of_the_Ring%3A_Second_Edition"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Spirit_Island"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Gloomhaven%3A_Jaws_of_the_Lion"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Twilight_Struggle"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Nemesis"/>
+    <ex:focuses_on rdf:resource="http://memoir_44.org/cards_in_players%27_hand"/>
+    <ex:uses rdf:resource="http://memoir_44.org/single_card_for_single_action"/>
+    <ex:involves rdf:resource="http://memoir_44.org/multi-purpose_cards"/>
+    <ex:is rdf:resource="http://memoir_44.org/recent_development_in_wargames"/>
+    <ex:is_similar_to rdf:resource="http://memoir_44.org/Action_/_Event_mechanic"/>
+    <ex:is_distinct_from rdf:resource="http://memoir_44.org/Command_Cards"/>
+    <ex:is_distinct_from rdf:resource="http://memoir_44.org/Card_Play_Conflict_Resolution"/>
+    <ex:is_used_in rdf:resource="http://memoir_44.org/Gloomhaven"/>
+    <ex:is_used_in rdf:resource="http://memoir_44.org/War_of_the_Ring%3A_Second_Edition"/>
+    <ex:is_used_in rdf:resource="http://memoir_44.org/Spirit_Island"/>
+    <ex:is_used_in rdf:resource="http://memoir_44.org/Gloomhaven%3A_Jaws_of_the_Lion"/>
+    <ex:is_used_in rdf:resource="http://memoir_44.org/Twilight_Struggle"/>
+    <ex:is_used_in rdf:resource="http://memoir_44.org/Nemesis"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Concordia">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Blood_Rage">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Richard_Borg">
-    <rdf:type rdf:resource="http://memoir_44.org/Designer"/>
-    <ex:diseñó rdf:resource="http://memoir_44.org/Memoir_%2744"/>
-    <ex:diseñó rdf:resource="http://memoir_44.org/Commands_%26_Colors%3A_Ancients"/>
-    <ex:diseñó rdf:resource="http://memoir_44.org/BattleLore%3A_Second_Edition"/>
-    <ex:diseñó rdf:resource="http://memoir_44.org/Commands_%26_Colors%3A_Napoleonics"/>
-    <ex:diseñó rdf:resource="http://memoir_44.org/BattleLore"/>
-    <ex:diseñó rdf:resource="http://memoir_44.org/Perudo"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Dice_Rolling">
+  <rdf:Description rdf:about="http://memoir_44.org/Hand_Management">
     <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Twilight_Imperium%3A_Fourth_Edition"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/War_of_the_Ring%3A_Second_Edition"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Star_Wars%3A_Rebellion"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Twilight_Struggle"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/The_Castles_of_Burgundy"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Eclipse%3A_Second_Dawn_for_the_Galaxy"/>
+    <ex:involves rdf:resource="http://memoir_44.org/games_with_cards"/>
+    <ex:involves rdf:resource="http://memoir_44.org/cards_with_multiple_uses"/>
+    <ex:rewards rdf:resource="http://memoir_44.org/playing_cards_in_certain_sequences_or_groups"/>
+    <ex:varies rdf:resource="http://memoir_44.org/depending_on_board_position"/>
+    <ex:varies rdf:resource="http://memoir_44.org/depending_on_cards_held"/>
+    <ex:varies rdf:resource="http://memoir_44.org/depending_on_cards_played_by_opponents"/>
+    <ex:means rdf:resource="http://memoir_44.org/gaining_the_most_value_out_of_available_cards"/>
+    <ex:considers rdf:resource="http://memoir_44.org/given_circumstances"/>
+    <ex:has_no_relationship_to rdf:resource="http://memoir_44.org/action/dexterity"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Brass%3A_Birmingham"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Pandemic_Legacy%3A_Season_1"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Ark_Nova"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Gloomhaven"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Terraforming_Mars"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/War_of_the_Ring%3A_Second_Edition"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Cyrille_Daujean">
-    <rdf:type rdf:resource="http://memoir_44.org/Artist"/>
-    <ex:participó_en rdf:resource="http://memoir_44.org/Ticket_to_Ride_Legacy%3A_Legends_of_the_West"/>
-    <ex:participó_en rdf:resource="http://memoir_44.org/Ticket_to_Ride%3A_Europe"/>
-    <ex:participó_en rdf:resource="http://memoir_44.org/Memoir_%2744"/>
-    <ex:participó_en rdf:resource="http://memoir_44.org/Ticket_to_Ride%3A_Nordic_Countries"/>
-    <ex:participó_en rdf:resource="http://memoir_44.org/Ticket_to_Ride"/>
-    <ex:participó_en rdf:resource="http://memoir_44.org/Small_World"/>
+  <rdf:Description rdf:about="http://memoir_44.org/Days_of_Wonder">
+    <rdf:type rdf:resource="http://memoir_44.org/Publisher"/>
+    <ex:publishes rdf:resource="http://memoir_44.org/board_games"/>
+    <ex:publishes rdf:resource="http://memoir_44.org/family-oriented_board_games"/>
+    <ex:publishes rdf:resource="http://memoir_44.org/easy-to-learn_board_games"/>
+    <ex:publishes rdf:resource="http://memoir_44.org/fun-to-play_board_games"/>
+    <ex:has rdf:resource="http://memoir_44.org/global_presence"/>
+    <ex:has rdf:resource="http://memoir_44.org/offices_in_the_US"/>
+    <ex:has rdf:resource="http://memoir_44.org/offices_in_Europe"/>
+    <ex:has rdf:resource="http://memoir_44.org/distribution_in_25_countries"/>
+    <ex:has rdf:resource="http://memoir_44.org/official_website"/>
+    <ex:has rdf:resource="http://memoir_44.org/associated_games"/>
+    <ex:has rdf:resource="http://memoir_44.org/Heat%3A_Pedal_to_the_Metal_as_associated_game"/>
+    <ex:has rdf:resource="http://memoir_44.org/Five_Tribes%3A_The_Djinns_of_Naqala_as_associated_game"/>
+    <ex:has rdf:resource="http://memoir_44.org/Ticket_to_Ride_Legacy%3A_Legends_of_the_West_as_associated_game"/>
+    <ex:has rdf:resource="http://memoir_44.org/Ticket_to_Ride%3A_Europe_as_associated_game"/>
+    <ex:has rdf:resource="http://memoir_44.org/Memoir_%2744_as_associated_game"/>
+    <ex:has rdf:resource="http://memoir_44.org/Ticket_to_Ride%3A_Nordic_Countries_as_associated_game"/>
+    <ex:has rdf:resource="http://memoir_44.org/name_derived_from_sense_of_wonder"/>
+    <ex:founded rdf:resource="http://memoir_44.org/2002"/>
+    <ex:won rdf:resource="http://memoir_44.org/Spiel_des_Jahres"/>
+    <ex:won rdf:resource="http://memoir_44.org/Spiel_des_Jahres_with_Ticket_to_Ride"/>
+    <ex:launched rdf:resource="http://memoir_44.org/Ticket_to_Ride_board_game_series"/>
+    <ex:became rdf:resource="http://memoir_44.org/youngest_publisher_to_win_Spiel_des_Jahres"/>
+    <ex:experienced rdf:resource="http://memoir_44.org/sense_of_wonder_as_children"/>
+    <ex:fell_in_love_with rdf:resource="http://memoir_44.org/playing_games"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Gaia_Project">
+  <rdf:Description rdf:about="http://memoir_44.org/air_battles">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Memoir_44">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+    <ex:has_alternate_name rdf:resource="http://memoir_44.org/M%C3%A9moire_44"/>
+    <ex:was_released_in rdf:resource="http://memoir_44.org/2004"/>
+    <ex:was_designed_by rdf:resource="http://memoir_44.org/Richard_Borg"/>
+    <ex:has_artist rdf:resource="http://memoir_44.org/Cyrille_Daujean"/>
+    <ex:has_artist rdf:resource="http://memoir_44.org/Julien_Delval"/>
+    <ex:has_artist rdf:resource="http://memoir_44.org/Don_Perrin"/>
+    <ex:has_artist rdf:resource="http://memoir_44.org/Claude_Rica"/>
+    <ex:was_published_by rdf:resource="http://memoir_44.org/Days_of_Wonder"/>
+    <ex:was_published_by rdf:resource="http://memoir_44.org/ADC_Blackfire_Entertainment"/>
+    <ex:was_published_by rdf:resource="http://memoir_44.org/Edge_Entertainment"/>
+    <ex:belongs_to_category rdf:resource="http://memoir_44.org/Miniatures"/>
+    <ex:belongs_to_category rdf:resource="http://memoir_44.org/Wargame"/>
+    <ex:belongs_to_category rdf:resource="http://memoir_44.org/World_War_II"/>
+    <ex:uses_mechanism rdf:resource="http://memoir_44.org/Area_Majority_/_Influence"/>
+    <ex:uses_mechanism rdf:resource="http://memoir_44.org/Campaign_/_Battle_Card_Driven"/>
+    <ex:uses_mechanism rdf:resource="http://memoir_44.org/Command_Cards"/>
+    <ex:uses_mechanism rdf:resource="http://memoir_44.org/Dice_Rolling"/>
+    <ex:uses_mechanism rdf:resource="http://memoir_44.org/Die_Icon_Resolution"/>
+    <ex:uses_mechanism rdf:resource="http://memoir_44.org/Grid_Movement"/>
+    <ex:uses_mechanism rdf:resource="http://memoir_44.org/Hand_Management"/>
+    <ex:uses_mechanism rdf:resource="http://memoir_44.org/Hexagon_Grid"/>
+    <ex:uses_mechanism rdf:resource="http://memoir_44.org/Line_of_Sight"/>
+    <ex:uses_mechanism rdf:resource="http://memoir_44.org/Modular_Board"/>
+    <ex:uses_mechanism rdf:resource="http://memoir_44.org/Movement_Points"/>
+    <ex:uses_mechanism rdf:resource="http://memoir_44.org/Scenario_/_Mission_/_Campaign_Game"/>
+    <ex:uses_mechanism rdf:resource="http://memoir_44.org/Simulation"/>
+    <ex:uses_mechanism rdf:resource="http://memoir_44.org/Team-Based_Game"/>
+    <ex:uses_mechanism rdf:resource="http://memoir_44.org/Variable_Set-up"/>
+    <ex:is_a rdf:resource="http://memoir_44.org/historical_boardgame"/>
+    <ex:features rdf:resource="http://memoir_44.org/battle_scenarios"/>
+    <ex:includes rdf:resource="http://memoir_44.org/double-sided_hex_game_board"/>
+    <ex:includes rdf:resource="http://memoir_44.org/army_miniatures"/>
+    <ex:includes rdf:resource="http://memoir_44.org/Obstacle_pieces"/>
+    <ex:includes rdf:resource="http://memoir_44.org/Command_cards"/>
+    <ex:includes rdf:resource="http://memoir_44.org/Special_Terrain_tiles"/>
+    <ex:includes rdf:resource="http://memoir_44.org/Custom_Wooden_dice"/>
+    <ex:mimics rdf:resource="http://memoir_44.org/historical_terrain"/>
+    <ex:mimics rdf:resource="http://memoir_44.org/troop_placements"/>
+    <ex:mimics rdf:resource="http://memoir_44.org/objectives_of_each_army"/>
+    <ex:uses rdf:resource="http://memoir_44.org/Command_and_Tactic_cards"/>
+    <ex:applies rdf:resource="http://memoir_44.org/unique_skills_of_units"/>
+    <ex:won rdf:resource="http://memoir_44.org/2005_Games_Magazine_Best_New_Historical_Simulation_Game"/>
+    <ex:won rdf:resource="http://memoir_44.org/2005_%C3%85rets_Spill_Best_Strategy_Game"/>
+    <ex:was_nominated_for rdf:resource="http://memoir_44.org/2005_%C3%85rets_Spill_Best_Strategy_Game"/>
+    <ex:was_nominated_for rdf:resource="http://memoir_44.org/2004_Tric_Trac"/>
+    <ex:was_nominated_for rdf:resource="http://memoir_44.org/2004_Meeples_Choice_Award"/>
+    <ex:has rdf:resource="http://memoir_44.org/official_website"/>
+    <ex:has rdf:resource="http://memoir_44.org/BGG_Item_ID"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Undaunted%3A_Normandy"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Undaunted%3A_North_Africa"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Formula_D"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Undaunted%3A_Stalingrad"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Blitzkrieg%21%3A_World_War_Two_in_20_Minutes"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Fall_of_Rome"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Area_Majority_/_Influence">
+    <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
+    <ex:involves rdf:resource="http://memoir_44.org/multiple_players_occupying_a_space"/>
+    <ex:determines rdf:resource="http://memoir_44.org/benefits_based_on_proportional_presence"/>
+    <ex:grants rdf:resource="http://memoir_44.org/score_in_a_region"/>
+    <ex:requires rdf:resource="http://memoir_44.org/having_the_most_caballeros_in_a_region"/>
+    <ex:is_a_mechanic_in rdf:resource="http://memoir_44.org/Area_Control_Games"/>
+    <ex:is_featured_in rdf:resource="http://memoir_44.org/War_of_the_Ring%3A_Second_Edition"/>
+    <ex:is_featured_in rdf:resource="http://memoir_44.org/Star_Wars%3A_Rebellion"/>
+    <ex:is_featured_in rdf:resource="http://memoir_44.org/Spirit_Island"/>
+    <ex:is_featured_in rdf:resource="http://memoir_44.org/Twilight_Struggle"/>
+    <ex:is_featured_in rdf:resource="http://memoir_44.org/Eclipse%3A_Second_Dawn_for_the_Galaxy"/>
+    <ex:is_featured_in rdf:resource="http://memoir_44.org/Scythe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/starting_game_state">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/capturing_objectives">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Simulation">
+    <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
+    <ex:is_not rdf:resource="http://memoir_44.org/a_specific_mechanism"/>
+    <ex:is rdf:resource="http://memoir_44.org/a_property_of_a_game_and_its_mechanisms"/>
+    <ex:attempts_to_create rdf:resource="http://memoir_44.org/a_realistic_model_of_actual_events_or_situations"/>
+    <ex:often_means rdf:resource="http://memoir_44.org/some_aspects_of_the_situation_is_worked_out_in_detail"/>
+    <ex:can_simulate rdf:resource="http://memoir_44.org/hypothetical_or_fictional_events"/>
+    <ex:requires rdf:resource="http://memoir_44.org/enough_information_to_create_a_realistic_model"/>
+    <ex:is_necessary_to_know rdf:resource="http://memoir_44.org/the_various_technical_properties_ascribed_to_elements_in_the_model"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Twilight_Struggle"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Sky_Team"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Heat%3A_Pedal_to_the_Metal"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Pax_Pamir%3A_Second_Edition"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Hegemony%3A_Lead_Your_Class_to_Victory"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Undaunted%3A_Normandy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Commands_%26_Colors%3A_Ancients">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
     <rdf:type rdf:resource="http://memoir_44.org/Game"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://memoir_44.org/Grid_Movement">
     <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Gloomhaven"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Twilight_Imperium%3A_Fourth_Edition"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Gloomhaven%3A_Jaws_of_the_Lion"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Scythe"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Eclipse%3A_Second_Dawn_for_the_Galaxy"/>
-    <ex:utilizado_por rdf:resource="http://memoir_44.org/Frosthaven"/>
+    <ex:occurs_when rdf:resource="http://memoir_44.org/pawns_move_on_the_grid_in_many_directions"/>
+    <ex:may_involve rdf:resource="http://memoir_44.org/square_grid"/>
+    <ex:may_involve rdf:resource="http://memoir_44.org/hexagonal_grid"/>
+    <ex:is_used_in rdf:resource="http://memoir_44.org/games_with_many_pawns"/>
+    <ex:is_used_in rdf:resource="http://memoir_44.org/games_with_only_one_pawn"/>
+    <ex:supplements rdf:resource="http://memoir_44.org/Hexagon_Grid_mechanic"/>
+    <ex:supplements rdf:resource="http://memoir_44.org/Square_Grid_mechanic"/>
+    <ex:is_used_for rdf:resource="http://memoir_44.org/movement_purposes"/>
+    <ex:is_featured_in rdf:resource="http://memoir_44.org/Gloomhaven"/>
+    <ex:is_featured_in rdf:resource="http://memoir_44.org/Twilight_Imperium%3A_Fourth_Edition"/>
+    <ex:is_featured_in rdf:resource="http://memoir_44.org/Gloomhaven%3A_Jaws_of_the_Lion"/>
+    <ex:is_featured_in rdf:resource="http://memoir_44.org/Eclipse%3A_Second_Dawn_for_the_Galaxy"/>
+    <ex:is_featured_in rdf:resource="http://memoir_44.org/Scythe"/>
+    <ex:is_featured_in rdf:resource="http://memoir_44.org/Frosthaven"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Dune%3A_Imperium_%E2%80%93_Uprising">
+  <rdf:Description rdf:about="http://memoir_44.org/Formula_D">
     <rdf:type rdf:resource="http://memoir_44.org/Game"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Five_Tribes%3A_The_Djinns_of_Naqala">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/ADC_Blackfire_Entertainment">
+  <rdf:Description rdf:about="http://memoir_44.org/Edge_Entertainment">
     <rdf:type rdf:resource="http://memoir_44.org/Publisher"/>
-    <ex:publicó rdf:resource="http://memoir_44.org/Twilight_Imperium%3A_Fourth_Edition"/>
-    <ex:publicó rdf:resource="http://memoir_44.org/Star_Wars%3A_Rebellion"/>
-    <ex:publicó rdf:resource="http://memoir_44.org/7_Wonders_Duel"/>
-    <ex:publicó rdf:resource="http://memoir_44.org/Sky_Team"/>
-    <ex:publicó rdf:resource="http://memoir_44.org/Heat%3A_Pedal_to_the_Metal"/>
-    <ex:publicó rdf:resource="http://memoir_44.org/Marvel_Champions%3A_The_Card_Game"/>
+    <ex:was_founded_in rdf:resource="http://memoir_44.org/1999"/>
+    <ex:published rdf:resource="http://memoir_44.org/Heavy_Gear"/>
+    <ex:published rdf:resource="http://memoir_44.org/Citadels"/>
+    <ex:published rdf:resource="http://memoir_44.org/Zombies%21%21%21"/>
+    <ex:published rdf:resource="http://memoir_44.org/Ticket_to_Ride"/>
+    <ex:published rdf:resource="http://memoir_44.org/Caylus"/>
+    <ex:published rdf:resource="http://memoir_44.org/Tide_of_Iron"/>
+    <ex:published rdf:resource="http://memoir_44.org/StarCraft%3A_The_Board_Game"/>
+    <ex:published rdf:resource="http://memoir_44.org/Anima%3A_Beyond_Fantasy"/>
+    <ex:introduced rdf:resource="http://memoir_44.org/non-collectable_card_games"/>
+    <ex:released rdf:resource="http://memoir_44.org/Through_the_Desert"/>
+    <ex:offers rdf:resource="http://memoir_44.org/board_games"/>
+    <ex:offers rdf:resource="http://memoir_44.org/role-playing_games"/>
+    <ex:offers rdf:resource="http://memoir_44.org/card_games"/>
+    <ex:offers rdf:resource="http://memoir_44.org/miniatures_games"/>
+    <ex:distributes rdf:resource="http://memoir_44.org/Anima%3A_Beyond_Fantasy"/>
+    <ex:has rdf:resource="http://memoir_44.org/in-house_design_studio"/>
+    <ex:has rdf:resource="http://memoir_44.org/Edge_Studio"/>
+    <ex:has rdf:resource="http://memoir_44.org/official_website"/>
+    <ex:is rdf:resource="http://memoir_44.org/dead"/>
+    <ex:transformed_into rdf:resource="http://memoir_44.org/EDGE_Studio"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Twilight_Imperium%3A_Fourth_Edition"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Star_Wars%3A_Rebellion"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Gaia_Project"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Arkham_Horror%3A_The_Card_Game"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Cthulhu%3A_Death_May_Die"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Blood_Rage"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Star_Wars%3A_Rebellion">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  <rdf:Description rdf:about="http://memoir_44.org/Historical_categories_on_BGG.">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Too_Many_Bones%3A_Undertow">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  <rdf:Description rdf:about="http://memoir_44.org/Command_Cards">
+    <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+    <ex:allows rdf:resource="http://memoir_44.org/players_to_activate_and_perform_actions_with_a_subset_of_their_units."/>
+    <ex:are_part_of rdf:resource="http://memoir_44.org/Voidfall."/>
+    <ex:are_part_of rdf:resource="http://memoir_44.org/Memoir_%2744."/>
+    <ex:are_part_of rdf:resource="http://memoir_44.org/Commands_%26_Colors%3A_Ancients."/>
+    <ex:are_part_of rdf:resource="http://memoir_44.org/BattleLore%3A_Second_Edition."/>
+    <ex:are_part_of rdf:resource="http://memoir_44.org/Mythic_Battles%3A_Pantheon."/>
+    <ex:are_part_of rdf:resource="http://memoir_44.org/The_Great_Wall."/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Crokinole">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  <rdf:Description rdf:about="http://memoir_44.org/changes_to_shared_game_components">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Too_Many_Bones">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  <rdf:Description rdf:about="http://memoir_44.org/Movement_Points">
+    <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
+    <ex:is_a_property_of rdf:resource="http://memoir_44.org/particular_piece"/>
+    <ex:is_a_property_of rdf:resource="http://memoir_44.org/terrain"/>
+    <ex:is_distinct_from rdf:resource="http://memoir_44.org/Action_Points"/>
+    <ex:is_used_in rdf:resource="http://memoir_44.org/war_games"/>
+    <ex:is_used_in rdf:resource="http://memoir_44.org/Twilight_Imperium%3A_Fourth_Edition"/>
+    <ex:is_used_in rdf:resource="http://memoir_44.org/War_of_the_Ring%3A_Second_Edition"/>
+    <ex:is_used_in rdf:resource="http://memoir_44.org/Scythe"/>
+    <ex:is_used_in rdf:resource="http://memoir_44.org/Clank%21_Legacy%3A_Acquisitions_Incorporated"/>
+    <ex:is_used_in rdf:resource="http://memoir_44.org/Concordia"/>
+    <ex:is_used_in rdf:resource="http://memoir_44.org/On_Mars"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Brass%3A_Birmingham">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  <rdf:Description rdf:about="http://memoir_44.org/larger_units">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Mythic_Battles%3A_Pantheon">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  <rdf:Description rdf:about="http://memoir_44.org/Margaret_Weis">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Memoir_%2744">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  <rdf:Description rdf:about="http://memoir_44.org/Wargame">
+    <rdf:type rdf:resource="http://memoir_44.org/Category"/>
+    <ex:depicts rdf:resource="http://memoir_44.org/military_actions"/>
+    <ex:depicts rdf:resource="http://memoir_44.org/skirmishes"/>
+    <ex:depicts rdf:resource="http://memoir_44.org/battles"/>
+    <ex:is_set_in rdf:resource="http://memoir_44.org/various_timelines"/>
+    <ex:covers rdf:resource="http://memoir_44.org/small_unit_actions"/>
+    <ex:covers rdf:resource="http://memoir_44.org/global-scale_wars"/>
+    <ex:covers rdf:resource="http://memoir_44.org/vast_range_of_conflicts"/>
+    <ex:covers rdf:resource="http://memoir_44.org/broader_scope_of_military_actions"/>
+    <ex:covers rdf:resource="http://memoir_44.org/entire_smaller_wars"/>
+    <ex:covers rdf:resource="http://memoir_44.org/campaigns_within_a_greater_war"/>
+    <ex:is_based_on rdf:resource="http://memoir_44.org/historical_situations"/>
+    <ex:is_based_on rdf:resource="http://memoir_44.org/fantasy"/>
+    <ex:is_based_on rdf:resource="http://memoir_44.org/science_fiction"/>
+    <ex:is_based_on rdf:resource="http://memoir_44.org/hypothetical_situations"/>
+    <ex:popular_period rdf:resource="http://memoir_44.org/World_War_II"/>
+    <ex:popular_period rdf:resource="http://memoir_44.org/Napoleonic_Wars"/>
+    <ex:popular_period rdf:resource="http://memoir_44.org/American_Civil_War"/>
+    <ex:has rdf:resource="http://memoir_44.org/tactical_level"/>
+    <ex:has rdf:resource="http://memoir_44.org/operational_level"/>
+    <ex:has rdf:resource="http://memoir_44.org/strategic_level"/>
+    <ex:uses rdf:resource="http://memoir_44.org/smaller_scale_units"/>
+    <ex:uses rdf:resource="http://memoir_44.org/maps_depicting_battlegrounds"/>
+    <ex:uses rdf:resource="http://memoir_44.org/larger_units"/>
+    <ex:uses rdf:resource="http://memoir_44.org/cardboard_counters"/>
+    <ex:uses rdf:resource="http://memoir_44.org/miniature_figures"/>
+    <ex:uses rdf:resource="http://memoir_44.org/wooden_blocks"/>
+    <ex:uses rdf:resource="http://memoir_44.org/hex-based_movement"/>
+    <ex:uses rdf:resource="http://memoir_44.org/area_movement"/>
+    <ex:uses rdf:resource="http://memoir_44.org/point-to-point_movement"/>
+    <ex:uses rdf:resource="http://memoir_44.org/card-driven_mechanics"/>
+    <ex:recreates rdf:resource="http://memoir_44.org/major_wars_on_a_large_scale"/>
+    <ex:includes rdf:resource="http://memoir_44.org/production_of_new_military_units"/>
+    <ex:includes rdf:resource="http://memoir_44.org/political_considerations"/>
+    <ex:includes rdf:resource="http://memoir_44.org/capturing_objectives"/>
+    <ex:includes rdf:resource="http://memoir_44.org/destruction_of_enemy_forces"/>
+    <ex:includes rdf:resource="http://memoir_44.org/accumulating_victory_points"/>
+    <ex:focuses_on rdf:resource="http://memoir_44.org/naval_battles"/>
+    <ex:focuses_on rdf:resource="http://memoir_44.org/air_battles"/>
+    <ex:is_designed_for rdf:resource="http://memoir_44.org/two_players"/>
+    <ex:is_designed_for rdf:resource="http://memoir_44.org/three_or_more_players"/>
+    <ex:resolves_combat rdf:resource="http://memoir_44.org/by_rolling_dice"/>
+    <ex:resolves_combat rdf:resource="http://memoir_44.org/by_using_a_Combat_Resolution_Table"/>
+    <ex:resolves_combat rdf:resource="http://memoir_44.org/by_computing_odds_and_drawing_a_card"/>
+    <ex:is_ranked rdf:resource="http://memoir_44.org/on_BGG"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Twilight_Imperium%3A_Fourth_Edition"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/War_of_the_Ring%3A_Second_Edition"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Star_Wars%3A_Rebellion"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Twilight_Struggle"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Eclipse%3A_Second_Dawn_for_the_Galaxy"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Root"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/BattleLore">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  <rdf:Description rdf:about="http://memoir_44.org/historical_situations">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Ticket_to_Ride_Legacy%3A_Legends_of_the_West">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  <rdf:Description rdf:about="http://memoir_44.org/having_the_most_caballeros_in_a_region">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Heat%3A_Pedal_to_the_Metal">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  <rdf:Description rdf:about="http://memoir_44.org/Dice_Rolling">
+    <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
+    <ex:is_a rdf:resource="http://memoir_44.org/game_mechanism"/>
+    <ex:can_be_used_for rdf:resource="http://memoir_44.org/many_things"/>
+    <ex:is_used_for rdf:resource="http://memoir_44.org/randomness"/>
+    <ex:is_used_in_conjunction_with rdf:resource="http://memoir_44.org/tables"/>
+    <ex:is_used_with rdf:resource="http://memoir_44.org/Combat_Results_Table"/>
+    <ex:produces rdf:resource="http://memoir_44.org/result"/>
+    <ex:considers rdf:resource="http://memoir_44.org/strengths_of_both_sides"/>
+    <ex:involves rdf:resource="http://memoir_44.org/die_roll"/>
+    <ex:commonly_uses rdf:resource="http://memoir_44.org/1D6"/>
+    <ex:commonly_uses rdf:resource="http://memoir_44.org/2D6"/>
+    <ex:commonly_uses rdf:resource="http://memoir_44.org/1D10"/>
+    <ex:can_be rdf:resource="http://memoir_44.org/game_in_and_of_itself"/>
+    <ex:is_a_part_of rdf:resource="http://memoir_44.org/Yahtzee"/>
+    <ex:is_a_part_of rdf:resource="http://memoir_44.org/Craps"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Twilight_Imperium%3A_Fourth_Edition"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/War_of_the_Ring%3A_Second_Edition"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Star_Wars%3A_Rebellion"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Twilight_Struggle"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/The_Castles_of_Burgundy"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Eclipse%3A_Second_Dawn_for_the_Galaxy"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Robinson_Crusoe%3A_Adventures_on_the_Cursed_Island">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  <rdf:Description rdf:about="http://memoir_44.org/Variable_Set-up">
+    <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
+    <ex:affects rdf:resource="http://memoir_44.org/starting_game_state"/>
+    <ex:varies rdf:resource="http://memoir_44.org/game_to_game"/>
+    <ex:involves rdf:resource="http://memoir_44.org/changes_to_shared_game_components"/>
+    <ex:involves rdf:resource="http://memoir_44.org/changes_to_starting_player_set-ups"/>
+    <ex:involves rdf:resource="http://memoir_44.org/changes_to_resources"/>
+    <ex:involves rdf:resource="http://memoir_44.org/changes_to_objectives"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/educational_games">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Julien_Delval">
+    <rdf:type rdf:resource="http://memoir_44.org/Artist"/>
+    <ex:was_born_in rdf:resource="http://memoir_44.org/1972"/>
+    <ex:was_born_in rdf:resource="http://memoir_44.org/Paris"/>
+    <ex:is_a rdf:resource="http://memoir_44.org/French_illustrator"/>
+    <ex:is_a rdf:resource="http://memoir_44.org/cartoonist"/>
+    <ex:has_personal_blog rdf:resource="http://memoir_44.org/juliendelval.blogspot.com"/>
+    <ex:is_associated_with_game rdf:resource="http://memoir_44.org/The_Castles_of_Burgundy"/>
+    <ex:is_associated_with_game rdf:resource="http://memoir_44.org/Ticket_to_Ride_Legacy%3A_Legends_of_the_West"/>
+    <ex:is_associated_with_game rdf:resource="http://memoir_44.org/Dominion%3A_Intrigue"/>
+    <ex:is_associated_with_game rdf:resource="http://memoir_44.org/Dominion"/>
+    <ex:is_associated_with_game rdf:resource="http://memoir_44.org/Res_Arcana"/>
+    <ex:is_associated_with_game rdf:resource="http://memoir_44.org/Ticket_to_Ride%3A_Europe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Cyrille_Daujean">
+    <rdf:type rdf:resource="http://memoir_44.org/Artist"/>
+    <ex:is_artist_for rdf:resource="http://memoir_44.org/many_Board_Games"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Ticket_to_Ride_Legacy%3A_Legends_of_the_West"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Ticket_to_Ride%3A_Europe"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Memoir_%2744"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Ticket_to_Ride%3A_Nordic_Countries"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Ticket_to_Ride"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Small_World"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Ticket_to_Ride%3A_Nordic_Countries_as_associated_game">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://memoir_44.org/Ticket_to_Ride">
     <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Gloomhaven">
+  <rdf:Description rdf:about="http://memoir_44.org/role-playing_games">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Black_Orchestra.">
     <rdf:type rdf:resource="http://memoir_44.org/Game"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/On_Mars">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  <rdf:Description rdf:about="http://memoir_44.org/score_in_a_region">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Frosthaven">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Ticket_to_Ride%3A_Europe">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Voidfall">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Small_World">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  <rdf:Description rdf:about="http://memoir_44.org/adventure_games">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://memoir_44.org/Don_Perrin">
     <rdf:type rdf:resource="http://memoir_44.org/Artist"/>
-    <ex:participó_en rdf:resource="http://memoir_44.org/Memoir_%2744"/>
-    <ex:participó_en rdf:resource="http://memoir_44.org/Memoir_%2744%3A_The_Battles_of_Khalkhin-Gol"/>
-    <ex:participó_en rdf:resource="http://memoir_44.org/Kampfgruppe_Commander%3A_Clash_of_Armor_II_%E2%80%93_Fast-Playing_Rules_for_Grand_Tactical_WWII_Miniatures"/>
+    <ex:is_a rdf:resource="http://memoir_44.org/Canadian_game_designer"/>
+    <ex:is_a rdf:resource="http://memoir_44.org/writer"/>
+    <ex:is_a rdf:resource="http://memoir_44.org/former_military_officer"/>
+    <ex:moved_to rdf:resource="http://memoir_44.org/Wisconsin"/>
+    <ex:contributed_to rdf:resource="http://memoir_44.org/Dragonlance_novels"/>
+    <ex:contributed_to rdf:resource="http://memoir_44.org/Dungeons_and_Dragons"/>
+    <ex:purchased rdf:resource="http://memoir_44.org/The_Courier"/>
+    <ex:purchased rdf:resource="http://memoir_44.org/MWAN"/>
+    <ex:combined rdf:resource="http://memoir_44.org/The_Courier_and_MWAN_into_Historical_Miniature_Gamer_Magazine"/>
+    <ex:ran rdf:resource="http://memoir_44.org/True_North_Miniatures"/>
+    <ex:was_married_to rdf:resource="http://memoir_44.org/Margaret_Weis"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Memoir_%2744"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Memoir_%2744%3A_The_Battles_of_Khalkhin-Gol"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Kampfgruppe_Commander%3A_Clash_of_Armor_II_%E2%80%93_Fast-Playing_Rules_for_Grand_Tactical_WWII_Miniatures"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/The_Great_Wall">
+  <rdf:Description rdf:about="http://memoir_44.org/World_War_II">
+    <rdf:type rdf:resource="http://memoir_44.org/Category"/>
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+    <ex:is_categorized_as rdf:resource="http://memoir_44.org/Wargames."/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Families_for_individual_theatres_of_war."/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Undaunted%3A_Normandy."/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Memoir_%2744."/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Combat_Commander%3A_Europe."/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Blitzkrieg%21%3A_World_War_Two_in_20_Minutes."/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Black_Orchestra."/>
+    <ex:is_part_of rdf:resource="http://memoir_44.org/Historical_categories_on_BGG."/>
+    <ex:is_related_to rdf:resource="http://memoir_44.org/World_War_II_Pacific."/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/dead">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Undaunted%3A_Normandy.">
     <rdf:type rdf:resource="http://memoir_44.org/Game"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Ark_Nova">
+  <rdf:Description rdf:about="http://memoir_44.org/Edge_Studio">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Team-Based_Game">
+    <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
+    <ex:involves rdf:resource="http://memoir_44.org/teams_of_players"/>
+    <ex:competes rdf:resource="http://memoir_44.org/to_obtain_victory"/>
+    <ex:has rdf:resource="http://memoir_44.org/variety_of_possible_team_structures"/>
+    <ex:includes rdf:resource="http://memoir_44.org/symmetrical_teams"/>
+    <ex:includes rdf:resource="http://memoir_44.org/2v2"/>
+    <ex:includes rdf:resource="http://memoir_44.org/3v3"/>
+    <ex:includes rdf:resource="http://memoir_44.org/multiple_sides"/>
+    <ex:includes rdf:resource="http://memoir_44.org/2v2v2"/>
+    <ex:includes rdf:resource="http://memoir_44.org/One_vs._All"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/War_of_the_Ring%3A_Second_Edition"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Star_Wars%3A_Rebellion"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Dune%3A_Imperium_%E2%80%93_Uprising"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Nemesis"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Crokinole"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Star_Wars%3A_Imperial_Assault"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/people_of_all_ages_and_interests">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Mission">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+    <ex:can_be_applied_to rdf:resource="http://memoir_44.org/variety_of_different_maps"/>
+    <ex:can_have rdf:resource="http://memoir_44.org/starting_resources"/>
+    <ex:can_have rdf:resource="http://memoir_44.org/starting_positions"/>
+    <ex:can_have rdf:resource="http://memoir_44.org/different_win_and_loss_conditions"/>
+    <ex:can_be_assembled_into rdf:resource="http://memoir_44.org/broader_narrative"/>
+    <ex:can_be_assembled_into rdf:resource="http://memoir_44.org/campaign"/>
+    <ex:can_be rdf:resource="http://memoir_44.org/entirely_disconnected_from_one_another"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Campaign_Game">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+    <ex:can_be_applied_to rdf:resource="http://memoir_44.org/variety_of_different_maps"/>
+    <ex:can_have rdf:resource="http://memoir_44.org/starting_resources"/>
+    <ex:can_have rdf:resource="http://memoir_44.org/starting_positions"/>
+    <ex:can_have rdf:resource="http://memoir_44.org/different_win_and_loss_conditions"/>
+    <ex:can_be_assembled_into rdf:resource="http://memoir_44.org/broader_narrative"/>
+    <ex:can_be_assembled_into rdf:resource="http://memoir_44.org/campaign"/>
+    <ex:can_be rdf:resource="http://memoir_44.org/entirely_disconnected_from_one_another"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/two_players">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Line_of_Sight">
+    <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
+    <ex:is_represented_by rdf:resource="http://memoir_44.org/units_may_only_see_certain_areas"/>
+    <ex:can_be_implemented_through rdf:resource="http://memoir_44.org/True_Line_of_Sight"/>
+    <ex:can_be_measured_by rdf:resource="http://memoir_44.org/a_string"/>
+    <ex:can_be_indicated_by rdf:resource="http://memoir_44.org/color-coded_regions"/>
+    <ex:is_used_in rdf:resource="http://memoir_44.org/Advanced_Squad_Leader"/>
+    <ex:is_used_in rdf:resource="http://memoir_44.org/Tannh%C3%A4user"/>
+    <ex:is_a_mechanic_in rdf:resource="http://memoir_44.org/Gloomhaven"/>
+    <ex:is_a_mechanic_in rdf:resource="http://memoir_44.org/Gloomhaven%3A_Jaws_of_the_Lion"/>
+    <ex:is_a_mechanic_in rdf:resource="http://memoir_44.org/Star_Wars%3A_Imperial_Assault"/>
+    <ex:is_a_mechanic_in rdf:resource="http://memoir_44.org/Star_Wars%3A_X-Wing_Miniatures_Game"/>
+    <ex:is_a_mechanic_in rdf:resource="http://memoir_44.org/Memoir_%2744"/>
+    <ex:is_a_mechanic_in rdf:resource="http://memoir_44.org/Descent%3A_Journeys_in_the_Dark_Second_Edition"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/depending_on_cards_played_by_opponents">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/offices_in_Europe">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Blitzkrieg%21%3A_World_War_Two_in_20_Minutes.">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Claude_Rica">
+    <rdf:type rdf:resource="http://memoir_44.org/Artist"/>
+    <ex:is rdf:resource="http://memoir_44.org/artist"/>
+    <ex:was rdf:resource="http://memoir_44.org/figure_sculptor"/>
+    <ex:created_figures_for rdf:resource="http://memoir_44.org/Memoir_%2744"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Memoir_%2744"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/Memoir_%2744%3A_The_Battles_of_Khalkhin-Gol"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/miniatures_games">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Hexagon_Grid">
+    <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
+    <ex:is_used_for rdf:resource="http://memoir_44.org/adjacency_and/or_movement"/>
+    <ex:allows_for rdf:resource="http://memoir_44.org/equidistant_movement_of_counters"/>
+    <ex:provides rdf:resource="http://memoir_44.org/more_directions_for_movement"/>
+    <ex:avoids rdf:resource="http://memoir_44.org/simulation_issues_caused_by_diagonal_movement_on_a_square_grid"/>
+    <ex:is_part_of rdf:resource="http://memoir_44.org/classic_wargame_mechanic"/>
+    <ex:is_used_in rdf:resource="http://memoir_44.org/games_with_counters_on_a_map"/>
+    <ex:is_associated_with rdf:resource="http://memoir_44.org/concept_of_%22zone_of_control%22"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/point-to-point_movement">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/many_things">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/strategic_level">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/2D6">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Spirit_Island">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/multi-purpose_cards">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Spiel_des_Jahres">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/multiple_pieces">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/former_military_officer">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/multiple_boards">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Ticket_to_Ride_board_game_series">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/cardboard_counters">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Zombies%21%21%21">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/adjacency_and/or_movement">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/randomized_placement">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Obstacle_pieces">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Modular_Board">
+    <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
+    <ex:is_composed_of rdf:resource="http://memoir_44.org/multiple_pieces"/>
+    <ex:is_composed_of rdf:resource="http://memoir_44.org/tiles"/>
+    <ex:is_composed_of rdf:resource="http://memoir_44.org/cards"/>
+    <ex:has rdf:resource="http://memoir_44.org/randomized_placement"/>
+    <ex:has rdf:resource="http://memoir_44.org/multiple_boards"/>
+    <ex:leads_to rdf:resource="http://memoir_44.org/different_possibilities_for_strategy"/>
+    <ex:leads_to rdf:resource="http://memoir_44.org/different_possibilities_for_exploration"/>
+    <ex:are_used rdf:resource="http://memoir_44.org/not_simultaneously"/>
+    <ex:preserves rdf:resource="http://memoir_44.org/table_space"/>
+    <ex:remains rdf:resource="http://memoir_44.org/out_of_play_until_required"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/card-driven_mechanics">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/entirely_disconnected_from_one_another">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Richard_Borg">
+    <rdf:type rdf:resource="http://memoir_44.org/Designer"/>
+    <ex:designed rdf:resource="http://memoir_44.org/Liars_Dice"/>
+    <ex:designed rdf:resource="http://memoir_44.org/Mutant_Chronicles%3A_Siege_of_the_Citadel"/>
+    <ex:designed rdf:resource="http://memoir_44.org/Redemption%3A_City_of_Bondage"/>
+    <ex:designed rdf:resource="http://memoir_44.org/Battle_Cry"/>
+    <ex:designed rdf:resource="http://memoir_44.org/Hera_and_Zeus"/>
+    <ex:designed rdf:resource="http://memoir_44.org/Memoir_%2744"/>
+    <ex:designed rdf:resource="http://memoir_44.org/Commands_%26_Colors%3A_Ancients"/>
+    <ex:designed rdf:resource="http://memoir_44.org/BattleLore"/>
+    <ex:designed rdf:resource="http://memoir_44.org/Commands_%26_Colors%3A_Napoleonics"/>
+    <ex:published rdf:resource="http://memoir_44.org/Liars_Dice"/>
+    <ex:published_by rdf:resource="http://memoir_44.org/Milton_Bradley"/>
+    <ex:introduced rdf:resource="http://memoir_44.org/Command_and_Colors_system"/>
+    <ex:won rdf:resource="http://memoir_44.org/Spiel_des_Jahres"/>
+    <ex:won_with rdf:resource="http://memoir_44.org/Bluff"/>
+    <ex:inducted_into rdf:resource="http://memoir_44.org/Clausewitz_Award_Hall_of_Fame"/>
+    <ex:nominated_for rdf:resource="http://memoir_44.org/James_F._Dunnigan_Award"/>
+    <ex:associated_with rdf:resource="http://memoir_44.org/Memoir_%2744"/>
+    <ex:associated_with rdf:resource="http://memoir_44.org/Commands_%26_Colors%3A_Ancients"/>
+    <ex:associated_with rdf:resource="http://memoir_44.org/BattleLore%3A_Second_Edition"/>
+    <ex:associated_with rdf:resource="http://memoir_44.org/Commands_%26_Colors%3A_Napoleonics"/>
+    <ex:associated_with rdf:resource="http://memoir_44.org/BattleLore"/>
+    <ex:associated_with rdf:resource="http://memoir_44.org/Perudo"/>
+    <ex:has_official_link rdf:resource="http://memoir_44.org/www.aleaspiele.de"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Sky_Team">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/1999">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/BattleLore%3A_Second_Edition.">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Miniatures">
+    <rdf:type rdf:resource="http://memoir_44.org/Category"/>
+    <ex:are_used_in rdf:resource="http://memoir_44.org/Miniatures_games"/>
+    <ex:are_key_components_in rdf:resource="http://memoir_44.org/Miniatures_games"/>
+    <ex:represent rdf:resource="http://memoir_44.org/Game_scenes"/>
+    <ex:have_surroundings_in rdf:resource="http://memoir_44.org/Playing_area"/>
+    <ex:are_components_in rdf:resource="http://memoir_44.org/Gloomhaven"/>
+    <ex:are_components_in rdf:resource="http://memoir_44.org/Star_Wars%3A_Rebellion"/>
+    <ex:are_components_in rdf:resource="http://memoir_44.org/Gloomhaven%3A_Jaws_of_the_Lion"/>
+    <ex:are_components_in rdf:resource="http://memoir_44.org/Gaia_Project"/>
+    <ex:are_components_in rdf:resource="http://memoir_44.org/Nemesis"/>
+    <ex:are_components_in rdf:resource="http://memoir_44.org/Clank%21_Legacy%3A_Acquisitions_Incorporated"/>
+    <ex:are_referenced_in rdf:resource="http://memoir_44.org/Miniatures_Reference_Wiki"/>
+    <ex:are_part_of rdf:resource="http://memoir_44.org/Collectible_Miniatures_Games"/>
+    <ex:are_part_of rdf:resource="http://memoir_44.org/Miscellaneous_Miniatures_Game_Accessory"/>
+    <ex:are_part_of rdf:resource="http://memoir_44.org/Miscellaneous_Miniatures"/>
+    <ex:are_painted_by rdf:resource="http://memoir_44.org/Miniature_Painters_Guild"/>
+    <ex:are_guided_by rdf:resource="http://memoir_44.org/Miniature_Painting_Guide"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Descent%3A_Journeys_in_the_Dark_Second_Edition">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/games_with_only_one_pawn">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/naval_battles">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/The_Great_Wall.">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Napoleonic_Wars">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/a_realistic_model_of_actual_events_or_situations">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Craps">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/some_aspects_of_the_situation_is_worked_out_in_detail">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/to_obtain_victory">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Arkham_Horror%3A_The_Card_Game">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Advanced_Squad_Leader">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Canadian_game_designer">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/BGG_Item_ID">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Twilight_Imperium%3A_Fourth_Edition">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/color-coded_regions">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Perudo">
     <rdf:type rdf:resource="http://memoir_44.org/Game"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://memoir_44.org/2004">
     <rdf:type rdf:resource="http://memoir_44.org/Year"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Twilight_Imperium%3A_Fourth_Edition">
+  <rdf:Description rdf:about="http://memoir_44.org/playing_cards_in_certain_sequences_or_groups">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Command_cards">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/card_games">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/particular_piece">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Star_Wars%3A_Rebellion">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/variety_of_different_maps">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Too_Many_Bones%3A_Undertow">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/easy-to-learn_board_games">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/global-scale_wars">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Crokinole">
     <rdf:type rdf:resource="http://memoir_44.org/Game"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Spirit_Island">
+  <rdf:Description rdf:about="http://memoir_44.org/other_ADC_Blackfire_companies">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/multiple_sides">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Heat%3A_Pedal_to_the_Metal">
     <rdf:type rdf:resource="http://memoir_44.org/Game"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Dominion">
+  <rdf:Description rdf:about="http://memoir_44.org/tactical_level">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/EDGE_Studio">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Gaia_Project">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/BattleLore">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
     <rdf:type rdf:resource="http://memoir_44.org/Game"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Commands_%26_Colors%3A_Ancients">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  <rdf:Description rdf:about="http://memoir_44.org/Ticket_to_Ride_Legacy%3A_Legends_of_the_West_as_associated_game">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Hegemony%3A_Lead_Your_Class_to_Victory">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  <rdf:Description rdf:about="http://memoir_44.org/1D6">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Kampfgruppe_Commander%3A_Clash_of_Armor_II_%E2%80%93_Fast-Playing_Rules_for_Grand_Tactical_WWII_Miniatures">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  <rdf:Description rdf:about="http://memoir_44.org/official_website">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Nemesis">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  <rdf:Description rdf:about="http://memoir_44.org/destruction_of_enemy_forces">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Cthulhu%3A_Death_May_Die">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  <rdf:Description rdf:about="http://memoir_44.org/Special_Terrain_tiles">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Clank%21_Legacy%3A_Acquisitions_Incorporated">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  <rdf:Description rdf:about="http://memoir_44.org/StarCraft%3A_The_Board_Game">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Perudo">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  <rdf:Description rdf:about="http://memoir_44.org/many_Board_Games">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Memoir_%2744%3A_The_Battles_of_Khalkhin-Gol">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  <rdf:Description rdf:about="http://memoir_44.org/entire_smaller_wars">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Star_Wars%3A_Imperial_Assault">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  <rdf:Description rdf:about="http://memoir_44.org/family-oriented_board_games">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Pandemic_Legacy%3A_Season_1">
+  <rdf:Description rdf:about="http://memoir_44.org/game_lines">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/campaigns_within_a_greater_war">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/variety_of_possible_team_structures">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/strengths_of_both_sides">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Combat_Results_Table">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/the_various_technical_properties_ascribed_to_elements_in_the_model">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Command_and_Colors_system">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/juliendelval.blogspot.com">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Die_Icon_Resolution">
+    <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
+    <ex:involves rdf:resource="http://memoir_44.org/rolling_custom_dice"/>
+    <ex:aims_to rdf:resource="http://memoir_44.org/resolve_events_or_conflicts"/>
+    <ex:requires rdf:resource="http://memoir_44.org/matching_specific_symbols_for_success"/>
+    <ex:differs_from rdf:resource="http://memoir_44.org/Worker_Placement_with_Dice_Workers"/>
+    <ex:is_used_in rdf:resource="http://memoir_44.org/Star_Wars%3A_Rebellion"/>
+    <ex:is_used_in rdf:resource="http://memoir_44.org/Too_Many_Bones"/>
+    <ex:is_used_in rdf:resource="http://memoir_44.org/Star_Wars%3A_Imperial_Assault"/>
+    <ex:is_used_in rdf:resource="http://memoir_44.org/Robinson_Crusoe%3A_Adventures_on_the_Cursed_Island"/>
+    <ex:is_used_in rdf:resource="http://memoir_44.org/Arcs"/>
+    <ex:is_used_in rdf:resource="http://memoir_44.org/Too_Many_Bones%3A_Undertow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Commands_%26_Colors%3A_Napoleonics">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
     <rdf:type rdf:resource="http://memoir_44.org/Game"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://memoir_44.org/7_Wonders_Duel">
     <rdf:type rdf:resource="http://memoir_44.org/Game"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Terraforming_Mars">
-    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  <rdf:Description rdf:about="http://memoir_44.org/marketing%40blackfire.cz">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Frosthaven">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Worker_Placement_with_Dice_Workers">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/cards_in_players%27_hand">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/hexagonal_grid">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://memoir_44.org/War_of_the_Ring%3A_Second_Edition">
     <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Yahtzee">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Ark_Nova">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Memoir_%2744.">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Bluff">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/games_with_many_pawns">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Liars_Dice">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Families_for_individual_theatres_of_war.">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/tables">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Hera_and_Zeus">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Redemption%3A_City_of_Bondage">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/players_to_activate_and_perform_actions_with_a_subset_of_their_units.">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Memoir_%2744%3A_The_Battles_of_Khalkhin-Gol">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/multiple_players_occupying_a_space">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Memoir_%2744">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/area_movement">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/broader_scope_of_military_actions">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/different_possibilities_for_strategy">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/game_to_game">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/units_may_only_see_certain_areas">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/changes_to_resources">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/changes_to_starting_player_set-ups">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Paris">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/campaign">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Blitzkrieg%21%3A_World_War_Two_in_20_Minutes">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/www.blackfire.cz">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/accumulating_victory_points">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Scenario">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+    <ex:can_be_applied_to rdf:resource="http://memoir_44.org/variety_of_different_maps"/>
+    <ex:can_have rdf:resource="http://memoir_44.org/starting_resources"/>
+    <ex:can_have rdf:resource="http://memoir_44.org/starting_positions"/>
+    <ex:can_have rdf:resource="http://memoir_44.org/different_win_and_loss_conditions"/>
+    <ex:can_be_assembled_into rdf:resource="http://memoir_44.org/broader_narrative"/>
+    <ex:can_be_assembled_into rdf:resource="http://memoir_44.org/campaign"/>
+    <ex:can_be rdf:resource="http://memoir_44.org/entirely_disconnected_from_one_another"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Small_World">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/double-sided_hex_game_board">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Milton_Bradley">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Action_Points">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/2004_Tric_Trac">
+    <rdf:type rdf:resource="http://memoir_44.org/Award"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Through_the_Desert">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Game_scenes">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/On_Mars">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/hex-based_movement">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/ADC_Blackfire_Entertainment_GmbH">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Dragonlance_novels">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/2005_Games_Magazine_Best_New_Historical_Simulation_Game">
+    <rdf:type rdf:resource="http://memoir_44.org/Award"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/1D10">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/wooden_blocks">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Dungeons_and_Dragons">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/cartoonist">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/equidistant_movement_of_counters">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/classic_wargame_mechanic">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/political_considerations">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Battle_Cry">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/fantasy">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/game_mechanism">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/One_vs._All">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Blood_Rage">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Eclipse%3A_Second_Dawn_for_the_Galaxy">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/World_War_II_Pacific.">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Res_Arcana">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/associated_games">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Cthulhu%3A_Death_May_Die">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/troop_placements">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/movement_purposes">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/table_space">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/action/dexterity">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Dominion%3A_Intrigue">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/simulation_issues_caused_by_diagonal_movement_on_a_square_grid">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/games_with_counters_on_a_map">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/symmetrical_teams">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/2v2">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/games_with_cards">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/three_or_more_players">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/name_derived_from_sense_of_wonder">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/different_win_and_loss_conditions">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Twilight_Struggle">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/MWAN">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/production_of_new_military_units">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/2v2v2">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/die_roll">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/operational_level">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Tide_of_Iron">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/youngest_publisher_to_win_Spiel_des_Jahres">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Voidfall.">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Gloomhaven">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/2005_%C3%85rets_Spill_Best_Strategy_Game">
+    <rdf:type rdf:resource="http://memoir_44.org/Award"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/game_in_and_of_itself">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Command_and_Tactic_cards">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/matching_specific_symbols_for_success">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Undaunted%3A_North_Africa">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Gloomhaven%3A_Jaws_of_the_Lion">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/single_card_for_single_action">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Concordia">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Fall_of_Rome">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Caylus">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/three_ADC_Blackfire_companies">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/family_board_games">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/recent_development_in_wargames">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/board_games">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Star_Wars%3A_Imperial_Assault">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Scenario_/_Mission_/_Campaign_Game">
+    <rdf:type rdf:resource="http://memoir_44.org/Mechanic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/cards">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/a_specific_mechanism">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/terrain">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/square_grid">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/M%C3%A9moire_44">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/military_actions">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Spiel_des_Jahres_with_Ticket_to_Ride">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Arcs">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/vast_range_of_conflicts">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Mutant_Chronicles%3A_Siege_of_the_Citadel">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Memoir_%2744_as_associated_game">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/tiles">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Pandemic_Legacy%3A_Season_1">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Citadels">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Pax_Pamir%3A_Second_Edition">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/strategy_games">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Star_Wars%3A_X-Wing_Miniatures_Game">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Collectible_Miniatures_Games">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Wisconsin">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/offices_in_the_US">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Action_/_Event_mechanic">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/True_Line_of_Sight">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/global_presence">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/changes_to_objectives">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/unique_skills_of_units">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Heat%3A_Pedal_to_the_Metal_as_associated_game">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/skirmishes">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/hypothetical_or_fictional_events">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/2004_Meeples_Choice_Award">
+    <rdf:type rdf:resource="http://memoir_44.org/Award"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Dune%3A_Imperium_%E2%80%93_Uprising">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/objectives_of_each_army">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/battles">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/3v3">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/war_games">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Commands_%26_Colors%3A_Ancients.">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/artist">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/by_rolling_dice">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Clausewitz_Award_Hall_of_Fame">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/on_BGG">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/gaining_the_most_value_out_of_available_cards">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Anima%3A_Beyond_Fantasy">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/depending_on_board_position">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/French_illustrator">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/not_simultaneously">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Ticket_to_Ride%3A_Europe_as_associated_game">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/broader_narrative">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Ticket_to_Ride%3A_Europe">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Eastern_Europe">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/by_using_a_Combat_Resolution_Table">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/concept_of_%22zone_of_control%22">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Area_Control_Games">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/a_property_of_a_game_and_its_mechanisms">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/hypothetical_situations">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/miniature_figures">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/fun-to-play_board_games">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Hegemony%3A_Lead_Your_Class_to_Victory">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/2002">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Wargames.">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Tannh%C3%A4user">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Marvel_Champions%3A_The_Card_Game">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/benefits_based_on_proportional_presence">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/battle_scenarios">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Miniature_Painting_Guide">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/playing_games">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/science_fiction">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/pawns_move_on_the_grid_in_many_directions">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/historical_terrain">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/different_possibilities_for_exploration">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Ticket_to_Ride_Legacy%3A_Legends_of_the_West">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Heavy_Gear">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/major_wars_on_a_large_scale">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/starting_resources">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/resolve_events_or_conflicts">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://memoir_44.org/The_Castles_of_Burgundy">
     <rdf:type rdf:resource="http://memoir_44.org/Game"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Gloomhaven%3A_Jaws_of_the_Lion">
+  <rdf:Description rdf:about="http://memoir_44.org/smaller_scale_units">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Mythic_Battles%3A_Pantheon.">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/cards_with_multiple_uses">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/small_unit_actions">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Miscellaneous_Miniatures_Game_Accessory">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Brass%3A_Birmingham">
     <rdf:type rdf:resource="http://memoir_44.org/Game"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Commands_%26_Colors%3A_Napoleonics">
+  <rdf:Description rdf:about="http://memoir_44.org/Miscellaneous_Miniatures">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Five_Tribes%3A_The_Djinns_of_Naqala_as_associated_game">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Square_Grid_mechanic">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Terraforming_Mars">
     <rdf:type rdf:resource="http://memoir_44.org/Game"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Pax_Pamir%3A_Second_Edition">
+  <rdf:Description rdf:about="http://memoir_44.org/maps_depicting_battlegrounds">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/result">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/The_Courier_and_MWAN_into_Historical_Miniature_Gamer_Magazine">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/rolling_custom_dice">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/starting_positions">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/%2B420_281_930_282">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Combat_Commander%3A_Europe.">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Robinson_Crusoe%3A_Adventures_on_the_Cursed_Island">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/depending_on_cards_held">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Miniatures_Reference_Wiki">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/1972">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/The_Courier">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Czech_Republic">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Scythe">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/figure_sculptor">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/American_Civil_War">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Ticket_to_Ride%3A_Nordic_Countries">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/distribution_in_25_countries">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/more_directions_for_movement">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/historical_boardgame">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Undaunted%3A_Stalingrad">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/given_circumstances">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/randomness">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Miniature_Painters_Guild">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Miniatures_games">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/a_string">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/non-collectable_card_games">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Dominion">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/True_North_Miniatures">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/teams_of_players">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/BattleLore%3A_Second_Edition">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Root">
     <rdf:type rdf:resource="http://memoir_44.org/Game"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://memoir_44.org/Undaunted%3A_Normandy">
     <rdf:type rdf:resource="http://memoir_44.org/Game"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://memoir_44.org/Dominion%3A_Intrigue">
+  <rdf:Description rdf:about="http://memoir_44.org/Custom_Wooden_dice">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/sense_of_wonder_as_children">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/principle_of_bringing_high_quality_educational_products">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Clank%21_Legacy%3A_Acquisitions_Incorporated">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Too_Many_Bones">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/various_timelines">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Hexagon_Grid_mechanic">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/army_miniatures">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/www.aleaspiele.de">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/out_of_play_until_required">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/enough_information_to_create_a_realistic_model">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/by_computing_odds_and_drawing_a_card">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Nemesis">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
     <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Card_Play_Conflict_Resolution">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/James_F._Dunnigan_Award">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/writer">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/Kampfgruppe_Commander%3A_Clash_of_Armor_II_%E2%80%93_Fast-Playing_Rules_for_Grand_Tactical_WWII_Miniatures">
+    <rdf:type rdf:resource="http://memoir_44.org/Game"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://memoir_44.org/in-house_design_studio">
+    <rdf:type rdf:resource="http://memoir_44.org/Unknown"/>
   </rdf:Description>
 </rdf:RDF>
